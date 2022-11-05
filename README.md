@@ -15,13 +15,13 @@
 ---
 ## Working this -
 
- ### Nothing was perm
- ### How to inject DB
- ### 12345667 => Hide secret (HMAC SHA256)
- ### HOW WE CAN PROC ROUTES
- ### process.env
- ### 4000
- ### Mongodb (ORM and ODM)
+     - Nothing was perm
+    - How to inject DB
+    - 12345667 => Hide secret (HMAC SHA256)
+    - HOW WE CAN PROC ROUTES
+    - process.env
+    - 4000
+    - Mongodb (ORM and ODM)
 
 <br>
 
@@ -29,17 +29,22 @@
 ## Topics Cover -
 
   - Topic 1: 
-     - QUick Over
+    
+        - QUick Over
   - Topic 2: 
-     - proces.end and dotenv
+     
+        - proces.end and dotenv
   - TOpic 3: 
-     - ORM AND ODM 
+   
+        - ORM AND ODM 
   - topic 4: 
-     - Diagram B-Logic 
+        
+         - Diagram B-Logic 
   - Topic 5: Functionality
-     - Create account => name, Email, mobile, pass
-     - login => email and pass
-     - Course Buy => user id , cid, price, paymentgateway
+     
+        - Create account => name, Email, mobile, pass
+        - login => email and pass
+        - Course Buy => user id , cid, price, paymentgateway
 
 ---
 ## Code Part
