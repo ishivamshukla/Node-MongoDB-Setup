@@ -15,7 +15,7 @@
 ---
 ## Working this -
 
-     - Nothing was perm
+    - Nothing was perm
     - How to inject DB
     - 12345667 => Hide secret (HMAC SHA256)
     - HOW WE CAN PROC ROUTES
@@ -39,7 +39,7 @@
         - ORM AND ODM 
   - topic 4: 
         
-         - Diagram B-Logic 
+        - Diagram B-Logic 
   - Topic 5: Functionality
      
         - Create account => name, Email, mobile, pass
