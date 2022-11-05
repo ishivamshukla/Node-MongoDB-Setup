@@ -55,3 +55,7 @@
         - check Email uniq
         - Take Care of Password
         - Success message or send token 
+
+## Run Port http://localhost:4000/
+
+      Welcome to Node & MongoDB
